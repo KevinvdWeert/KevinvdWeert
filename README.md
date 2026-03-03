@@ -5,10 +5,8 @@ Welcome to my GitHub profile! I am a passionate Web Developer focused on buildin
 ## 🚀 About Me
 
 - 💻 I specialize in full-stack web development, particularly working with **PHP**, **Laravel**, and **JavaScript**.
-- 🔐 I am a daily **Kali Linux** user with a strong interest in cybersecurity, networking, and ethical hacking tools.
 - 🛠️ I love building tools that solve practical problems—from managing a medical practice or handling restaurant reservations, to visual study dashboards for students.
 - 🌱 I’m constantly learning and expanding my skill set with new technologies and modern web frameworks.
-- 🤝 I'm open to collaborating on innovative web-based tools and applications.
 - 📫 How to reach me: [Let's connect on LinkedIn](https://www.linkedin.com/in/kevin-van-de-weert/)!
 
 ## 💻 Tech Stack & Security Tools
@@ -63,6 +61,3 @@ Welcome to my GitHub profile! I am a passionate Web Developer focused on buildin
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinvdWeert&theme=radical&hide_border=true" alt="Kevin's GitHub Streak" />
 </p>
-
----
-⭐️ *Feel free to explore my repositories! If you find something interesting or want to collaborate, don't hesitate to reach out.*
