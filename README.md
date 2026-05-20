@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a passionate Web Developer focused on buildin
 - 💻 I specialize in full-stack web development, particularly working with **PHP**, **Laravel**, and **JavaScript**.
 - 🛠️ I love building tools that solve practical problems—from managing a medical practice or handling restaurant reservations, to visual study dashboards for students.
 - 🌱 I’m constantly learning and expanding my skill set with new technologies and modern web frameworks.
-- 📫 How to reach me: [Let's connect on LinkedIn](https://www.linkedin.com/in/kevin-van-de-weert/)!
+- 📫 How to reach me: [Let's connect on LinkedIn]([https://www.linkedin.com/in/kevin-van-de-weert/](https://nl.linkedin.com/in/kevin-van-de-weert?trk=people-guest_people_search-card))!
 
 ## 💻 Tech Stack & Security Tools
 
