@@ -1,15 +1,15 @@
-# Hi there, I'm Kevin van de Weert! 👋 ⚛️
+# Hi there, I'm Kevin van de Weert!
 
 Welcome to my GitHub profile! I am a passionate Web Developer focused on building clean, user-centric, and interactive web applications. I enjoy taking on complex problems and building efficient digital solutions that help streamline real-world processes. 
 
-## 🚀 About Me
+## About Me
 
-- 💻 I specialize in full-stack web development, particularly working with **PHP**, **Laravel**, and **JavaScript**.
-- 🛠️ I love building tools that solve practical problems—from managing a medical practice or handling restaurant reservations, to visual study dashboards for students.
-- 🌱 I’m constantly learning and expanding my skill set with new technologies and modern web frameworks.
-- 📫 How to reach me: [Let's connect on LinkedIn](https://nl.linkedin.com/in/kevin-van-de-weert?trk=people-guest_people_search-card)!
+- I specialize in full-stack web development, particularly working with **PHP**, **Laravel**, and **JavaScript**.
+- I love building tools that solve practical problems—from managing a medical practice or handling restaurant reservations, to visual study dashboards for students.
+- I’m constantly learning and expanding my skill set with new technologies and modern web frameworks.
+- How to reach me: [Let's connect on LinkedIn](https://nl.linkedin.com/in/kevin-van-de-weert?trk=people-guest_people_search-card)!
 
-## 💻 Tech Stack & Security Tools
+## Tech Stack & Security Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I am a passionate Web Developer focused on buildin
   <img src="https://img.shields.io/badge/Nmap-2B4A69?style=for-the-badge&logoColor=white" alt="Nmap" />
 </p>
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinvdWeert&theme=radical" alt="Kevin's GitHub Summary" />
